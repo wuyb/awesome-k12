@@ -1,5 +1,5 @@
-# Subject Specific
+## Subject Specific
 
-## Chinese
+### Chinese
 
-- [Chinese Poetry|https://github.com/chinese-poetry/chinese-poetry] Chinese ancient poetry database. 
+- [Chinese Poetry](https://github.com/chinese-poetry/chinese-poetry) : Chinese ancient poetry database. 
