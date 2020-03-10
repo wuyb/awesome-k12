@@ -5,3 +5,6 @@
 
 ### Math
 - [KaTex](https://github.com/KaTeX/KaTeX) : Fast math typesetting for the web.
+
+## OCR
+- [Chinese OCR Lite](https://github.com/ouyanghuiyu/chineseocr_lite): Ultra light OCR for Chinese
