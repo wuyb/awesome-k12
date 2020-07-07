@@ -3,6 +3,7 @@
 ### Chinese
 - [Chinese Poetry](https://github.com/chinese-poetry/chinese-poetry) : Chinese ancient poetry database. 
 - [Xinhua Dictionary](https://github.com/pwxcoo/chinese-xinhua) : Chinese Xinhua Dictionary (non-official).
+- [Gu Shi Ci](https://www.gushiwen.org): Chinese ancient poetry website.
 
 ### Math
 - [KaTex](https://github.com/KaTeX/KaTeX) : Fast math typesetting for the web.
