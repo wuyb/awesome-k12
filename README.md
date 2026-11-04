@@ -10,3 +10,4 @@
 
 ## OCR
 - [Chinese OCR Lite](https://github.com/ouyanghuiyu/chineseocr_lite): Ultra light OCR for Chinese.
+- [QuizQuip](https://quizquip.com) - Free science revision site for Singapore lower-secondary students: chapter notes, quizzes, topical questions and practice papers.
